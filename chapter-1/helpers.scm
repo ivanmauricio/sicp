@@ -13,3 +13,7 @@
 (define (double x)
   (* 2 x)
 )
+
+(define (cube x)
+  (* x x x)
+)
